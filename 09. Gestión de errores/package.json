@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio9",
+  "version": "1.0.0",
+  "description": "Ejercicio de la sesión 9",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FBG.91",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.1"
+  }
+}
