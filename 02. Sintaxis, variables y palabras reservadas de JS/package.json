@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "description": "Ejercicio de la sesión 2 de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "secondexercise",
+    "ejercicio2"
+  ],
+  "author": "FBG.91",
+  "license": "ISC"
+}
